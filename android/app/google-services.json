@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "714784057945",
+    "firebase_url": "https://lakshya-ac3d9-default-rtdb.firebaseio.com",
+    "project_id": "lakshya-ac3d9",
+    "storage_bucket": "lakshya-ac3d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714784057945:android:a93ebf7d792cf63764df48",
+        "android_client_info": {
+          "package_name": "com.example.fimages"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714784057945-h0a6nc4n9f0hrikp2n47q6ihlg1j0ohf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7e_HjZ8_qZ1H-SvWaErSjsQ6oi3KfWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714784057945-h0a6nc4n9f0hrikp2n47q6ihlg1j0ohf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714784057945-1h3aimed9cit0oa2ldc637eqg13s1hih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turfbookings"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:714784057945:android:1124b9c52c2ca2fb64df48",
+        "android_client_info": {
+          "package_name": "com.example.turfadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "714784057945-h0a6nc4n9f0hrikp2n47q6ihlg1j0ohf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCT7e_HjZ8_qZ1H-SvWaErSjsQ6oi3KfWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "714784057945-h0a6nc4n9f0hrikp2n47q6ihlg1j0ohf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "714784057945-1h3aimed9cit0oa2ldc637eqg13s1hih.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.turfbookings"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
